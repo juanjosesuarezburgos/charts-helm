@@ -1,0 +1,4 @@
+image:
+  repository: ghcr.io/juanjosesuarezburgos/aplicacion-python/aplicacion 
+  tag: "initial" 
+replicaCount: 1
