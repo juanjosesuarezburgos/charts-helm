@@ -1,4 +1,4 @@
 image:
   repository: ghcr.io/juanjosesuarezburgos/aplicacion-python/aplicacion
-  tag: "ghcr.io/juanjosesuarezburgos/aplicacion-python/aplicacion:eea45af"
+  tag: "ghcr.io/juanjosesuarezburgos/aplicacion-python/aplicacion:9c5f485"
 replicaCount: 1
