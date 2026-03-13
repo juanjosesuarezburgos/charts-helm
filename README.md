@@ -1,8 +1,5 @@
 <div align="center">
   <h1>Charts-Helm Repository</h1>
-  <p><strong>Source of Truth for Deployment Configuration</strong></p>
-</div>
-
 <hr />
 
 ## Project Overview
